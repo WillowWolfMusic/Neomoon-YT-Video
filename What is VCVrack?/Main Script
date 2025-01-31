@@ -11,7 +11,10 @@ well.
 
 it's not always intuitive, but it's usually easier to get started with than you might think when looking at a big complex patch
 
-VCVrack has a selection of inbuilt modules, including sound generating oscillators, frequency modulating LFOs,  
+//
+VCVrack has a selection of inbuilt modules, including sound generating oscillators, frequency modulating LFOs, voltage generating sequencers, and audio mixers to bring it all together,
+
+
 
 
 Known for emulating the eurorrack hardware format, VCVrack recreates not only the logic of eurorrack, but also 
